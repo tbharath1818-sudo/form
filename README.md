@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="student.css">
 </head>
 <body>
-
+ 
   <h2>Student Management</h2>
 
   <form id="studentForm">
