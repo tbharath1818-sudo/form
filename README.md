@@ -7,7 +7,7 @@
 </head>
 <body>
  
-  <h2>Student Management</h2>
+  <h2>Student database</h2>
 
   <form id="studentForm">
     <input type="text" id="name" placeholder="Name" required>
